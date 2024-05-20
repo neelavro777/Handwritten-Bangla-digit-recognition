@@ -33,3 +33,9 @@ The dataset will consist of a collection of handwritten Bangla digit images. Eac
 - **Image Processing Libraries**: OpenCV (cv2)
 - **Development Environment**: Google Colab / Jupyter Notebook
 - **Libraries for Data Manipulation**: Pandas, NumPy
+
+# Team members
+
+- **Rafi Shahriyar**
+- **Nafis Ashraf Roudra**
+- **Neelavro Saha**
